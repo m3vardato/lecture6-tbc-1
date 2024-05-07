@@ -1,0 +1,275 @@
+.container {
+	width: 1440px;
+	margin: 0 auto;
+}
+
+body {
+	background: #F1F1F1;
+}
+
+h2 {
+	margin-top: 21px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin-left: 35px;
+	vertical-align: bottom;
+
+}
+
+.poto {
+	margin-top: 21px;
+	margin-left: 35px;
+	vertical-align: bottom;
+}
+
+.idk {
+	margin-top: 33px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: block;
+}
+
+.abg {
+	margin-top: 27px;
+	margin-left: 30px;
+	vertical-align: middle;
+	position: relative;
+	margin-top: px;
+}
+
+.abg1 {
+	margin-top: 27px;
+	margin-left: 30px;
+	vertical-align: middle;
+	position: relative;
+	margin-top: 40px;
+}
+
+.yuti {
+	display: inline-block;
+	margin-left: 30px;
+	width: 362px;
+	height: 186px;
+	background: #FFF;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+}
+
+.yuti1 {
+	display: inline-block;
+	margin-left: 34px;
+	width: 362px;
+	height: 186px;
+	background: #FFF;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+}
+
+.yuti2 {
+	display: inline-block;
+	margin-left: 34px;
+	width: 362px;
+	height: 186px;
+	background: #FFF;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+}
+
+.text {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 37px;
+	margin-top: 68px;
+	margin-right: 87px;
+}
+
+.clock {
+	margin-left: 37px;
+	display: inline-block;
+}
+
+.meotxe {
+	display: inline-block;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.a4 {
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 23.44px;
+	text-align: left;
+	position: relative;
+	margin-bottom: -40px;
+	display: inline-block;
+	margin-left: 70px ;
+	margin-top: 40px;
+	z-index: 2;
+	color: #FFF;
+}
+
+.a41 {
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 23.44px;
+	text-align: left;
+	position: relative;
+	display: inline-block;
+	margin-left: 217px ;
+	z-index: 2;
+	color: #FFF;
+
+}
+
+.c1 {
+	position: relative;
+	margin-top: -70px;
+	z-index: 1;
+}
+
+.exlaxdeba {
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 800;
+	line-height: 28.13px;
+	text-align: left;
+	color: #000000;
+	margin: 37px;
+	vertical-align: top;
+}
+
+.warwera {
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: relative;
+	z-index: 2;
+	margin-top: px;
+	margin-left: 315px;
+	display: inline-block;
+	
+
+}
+
+.pirveli {
+	position: relative;
+	z-index: 1;
+	margin-top: px;
+	margin-left:-480px;
+	vertical-align: middle;
+	
+}
+
+.meore {
+	margin-left: 37px;
+	margin-top: 42px;
+	position: relative;
+	z-index: 1;
+	
+}
+
+.mesame {
+	margin-left: 37px;
+	margin-bottom: 98px;
+	position: relative;
+
+}
+
+.meotxe {
+	margin-left: 37px;
+	margin-bottom: 98px;
+	position: relative;
+	z-index: 2;
+
+}
+
+.mexute {
+	margin-left: 37px;
+}
+
+.zsz {
+	
+	height: 837px;
+	width: 362px;
+	display: inline-block;
+	margin-top: -950px;
+	vertical-align: middle;
+	ma
+}
+
+.idkkk {
+	display: inline-block;
+}
+
+.bolo {
+	width: 1440px;
+	height: 201px;
+	background: #243043;
+	margin-top: 36px;
+}
+
+.f1 {
+	padding-top: 59px;
+	padding-left: 137px;
+	display: inline-block;
+		vertical-align: middle;
+}
+
+.h31 {
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 21px;
+}
+
+.h311 {
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+
+.zebra {
+	display: inline-block;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-left: 112px;
+	vertical-align: middle;
+}
+
+.bolopoto {
+	margin-left: 300px;
+	margin-top: 60px;
+}
